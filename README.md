@@ -1,4 +1,14 @@
-### Hi there 👋
+欢迎来到我的个人主页 🎉 🎉 🎉
+
+我是一名普通的Android 开发者 👨‍💻 。 欢迎与我技术分享交流
+
+以下平台也可以看到我 😎 
+
+[CSDN](https://blog.csdn.net/knight1996)    
+[掘金](https://juejin.cn/user/1943592291016221/posts)  
+[知乎](https://www.zhihu.com/people/wkk-59-44)
+
+
 
 <!--
 **wkk-knight/wkk-knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
