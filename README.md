@@ -6,7 +6,7 @@
 
 [CSDN](https://blog.csdn.net/knight1996)    
 [掘金](https://juejin.cn/user/1943592291016221/posts)  
-[知乎](https://www.zhihu.com/people/wkk-59-44)
+[知乎](https://www.zhihu.com/people/knight-kk/posts)
 
 
 
